@@ -11,4 +11,4 @@ myTtl = turtle.Turtle()
 
 for i in range(3):
     myTtl.right(120)
-    myTtl.forward(100) 
+    myTtl.forward(100)
