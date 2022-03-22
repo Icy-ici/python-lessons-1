@@ -6,8 +6,8 @@ python lessons for digital solutions 10.1
 
 - [x] lesson 1
   - [x] exercise 1
-  - [x] exercise 3
   - [x] exercise 2
+  - [x] exercise 3
 - [x] lesson 2
   - [x] exercise 2
   - [x] exercise 1
