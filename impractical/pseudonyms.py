@@ -5,9 +5,9 @@ import random
 print("Welcome to the Psych 'Sidekick Name Picker.'\n")
 print("A name just like Sean would pick for Gus:\n\n")
 
-first = ('Hamish', 'Blake', 'Matt')
+first = ('Hamish', 'Blake', 'Matt', 'Reece', 'Ethan', 'Lachlan')
 
-last = ('Lochran', 'Perry', 'Stephens')
+last = ('Lochran', 'Perry', 'Stephens', 'Leitz', 'Celis', 'Crouch')
 
 while True:
     firstName = random.choice(first)
