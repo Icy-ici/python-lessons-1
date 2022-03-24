@@ -9,9 +9,9 @@ friends = "Bruce"
 ## Everyone else is told, politely, to go away     ##
 #####################################################
 
-name = input("What is your name? ")
+name = input("What is your name? ") ## Ask for the name
 
-if name == "Alfred" or name == friends:
-    print("Welcome!")
-else:
-    print("You are not Alfred or a friend of Alfred, please leave.")
+if name == "Alfred" or name == "Bruce": ## If the name is Alfred or Bruce,
+    print("Welcome!") ## Welcome
+else: ## If the name is not Alfred or Bruce,
+    print("You are not Alfred or Bruce, please leave.") ## Tell them to leave
