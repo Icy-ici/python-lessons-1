@@ -1,1 +1,1 @@
-print((3.1415 * int(input("r? "))**2 * int(input("h? ")))/3)
+print(round((3.1415 * int(input())**2 * int(input()))/3, 2))
