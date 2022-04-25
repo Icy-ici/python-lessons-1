@@ -1,9 +1,9 @@
-apple_score = int(input()*3 + input()*2 + input())
-banana_score = int(input()*3 + input()*2 + input())
+apple = (int(input())*3) + (int(input())*2) + (int(input())*1)
+banana = (int(input())*3) + (int(input())*2) + (int(input())*1)
 
-if (apple_score < banana_score):
+if apple > banana:
     print("A")
-elif (banana_score < apple_score):
+elif banana > apple:
     print("B")
-elif (apple_score == banana_score):
+else:
     print("T")
